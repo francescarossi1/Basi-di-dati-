@@ -21,6 +21,8 @@ Basi-di-dati-/
 │   ├── 📄 es1_a.sql
 │   ├── 📄 es1_b.sql
 │   └── 📄 soluzione_esercitazione1.sql
+├── 📁 esercitazione2/
+│   └── 📄 es1.sql
 └── 📄 README.md
 ```
 <!-- TREE_END -->
