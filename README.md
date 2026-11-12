@@ -19,7 +19,8 @@
 Basi-di-dati-/
 ├── 📁 esercitazione1/
 │   ├── 📄 es1_a.sql
-│   └── 📄 es1_b.sql
+│   ├── 📄 es1_b.sql
+│   └── 📄 soluzione_esercitazione1.sql
 └── 📄 README.md
 ```
 <!-- TREE_END -->
