@@ -17,7 +17,10 @@
 <!-- TREE_START -->
 ```text
 Basi-di-dati-/
-└── 📁 esercitazione1/
+├── 📁 esercitazione1/
+│   ├── 📄 es1_a.sql
+│   └── 📄 es1_b.sql
+└── 📄 README.md
 ```
 <!-- TREE_END -->
 
