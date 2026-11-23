@@ -34,8 +34,6 @@ Basi-di-dati-/
 │   ├── 📄 es03_dati.sql
 │   ├── 📄 es2.sql
 │   └── 📄 es3.sql
-├── 📄 esercitazione2 (2).zip
-├── 📄 esercitazione2.zip
 └── 📄 README.md
 ```
 <!-- TREE_END -->
