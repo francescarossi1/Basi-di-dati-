@@ -20,9 +20,22 @@ Basi-di-dati-/
 ├── 📁 esercitazione1/
 │   ├── 📄 es1_a.sql
 │   ├── 📄 es1_b.sql
+│   ├── 📄 esercitazione1_soluzione.sql
 │   └── 📄 soluzione_esercitazione1.sql
 ├── 📁 esercitazione2/
-│   └── 📄 es1.sql
+│   ├── 📄 database.sql
+│   ├── 📄 dati_extra.sql
+│   ├── 📄 es1.sql
+│   ├── 📄 es2.sql
+│   ├── 📄 es3.sql
+│   └── 📄 Insert.sql
+├── 📁 esercitazione3/
+│   ├── 📄 database.sql
+│   ├── 📄 es03_dati.sql
+│   ├── 📄 es2.sql
+│   └── 📄 es3.sql
+├── 📄 esercitazione2 (2).zip
+├── 📄 esercitazione2.zip
 └── 📄 README.md
 ```
 <!-- TREE_END -->
