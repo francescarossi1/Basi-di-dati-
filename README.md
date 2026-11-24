@@ -34,6 +34,11 @@ Basi-di-dati-/
 │   ├── 📄 es03_dati.sql
 │   ├── 📄 es2.sql
 │   └── 📄 es3.sql
+├── 📁 esercitazione4/
+│   ├── 📄 a.sql
+│   ├── 📄 b.sql
+│   ├── 📄 c.sql
+│   └── 📄 es04_db.sql
 └── 📄 README.md
 ```
 <!-- TREE_END -->
